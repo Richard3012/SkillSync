@@ -27,13 +27,13 @@ const Footer: React.FC<IFooter> = ({ links }) => {
           <p className="font-bold text-2xl">Get In Touch</p>
           <div className="flex flex-col">
             <span>Email: skillsync@gmail.com</span>
-            <span>Phone: +91-1234567899</span>
+            <span>Phone: +91-9987827873</span>
           </div>
         </div>
         <div className="flex flex-col  gap-5 items-center">
           <span className="font-bold text-2xl">Location</span>
           <div>
-            <>Mumbai, India</>
+            <>Navi Mumbai, India</>
           </div>
         </div>
       </div>
